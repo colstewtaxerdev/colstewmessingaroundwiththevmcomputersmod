@@ -1,16 +1,5 @@
 > [!WARNING]
-> This repository is currently abandoned as we are working on a rewrite. Due to us starting the rewrite
-> overlapping with a bunch of big changes in our lives, we currently can't guarantee any release date.
-> All important updates will be on [Discord](https://discord.gg/gNgaxZa4yX).
-
-<p align="center"><img src="https://raw.githubusercontent.com/y2k04/MCVmComputers/master/src/main/resources/assets/mcvmcomputers/icon.png" height="320"></p>
-
-<a href="https://discord.gg/gNgaxZa4yX">Join the MCVmComputers Discord Server!</a>
-
-<details>
-	<summary>Donate to the original creator (<a href="https://github.com/Delta2Force">Delta2Force</a>)<br><sub><i>Note: Only accepts Bitcoin and BitcoinCash</i></sub></summary>
-<i>BTC:</i> <code>3GubEkHV69gCkjWhRgRWYqWqyjcWW3gxFF</code><br><i>BCH:</i> <code>bitcoincash:qq6jttzlvgj68lvecnh75pt3znezj4vx6sysfvj3j5</code>
-</details><hr>
+> This isn't an official version, this is a fork I made to mess around with a mod I love.
 
 <h3>Dependencies</h3>
 <ul>
